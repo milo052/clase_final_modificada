@@ -1,0 +1,76 @@
+@import url(blog.css);
+@import url(info.css);
+
+
+MENU
+
+.navbar-brand{
+    font-size: 50px;
+    padding: 15px;
+}
+
+.d-item{
+    height: 500px;
+}
+.d-img{
+    height: 100%;
+    object-fit: cover;
+    filter: brightness(0.6);
+}
+.mt-5 fs-3 text-uppercase{
+    color: chartreuse;
+}
+
+
+#CIRCUITO {
+    text-align: center;
+    color: black;
+    font-size: 50px;
+    
+}
+#CIRCUITO h2{
+    font-size: 50px;
+    color: black;
+}
+
+
+
+footer{
+    width: 100%;
+}
+.titutlo-seccion{ 
+    
+   margin: 2px;
+    color:blue
+}
+.copy{display: flex;
+    justify-content: center;
+    color: greenyellow;
+}
+.redes-sociales i{  
+  
+
+    font-size: 50px;
+    padding: 15px;
+    color:blue
+  
+}
+.centrar{
+    background-color: black;
+    font-size: 30px;
+}
+.titutlo-seccion{
+    background-color: black;
+    font-size: 30px;
+}
+
+
+
+.card-title{
+    font-size: 50px;
+    color: black;
+}
+.card-text{
+    font-size: 30px;
+    color: black;
+}
